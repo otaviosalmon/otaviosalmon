@@ -10,3 +10,4 @@
 - 😄 Pronomes: ele/dele
  ## 📊 GitHub Stats:
   ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviosalmon&layout=compact&theme=radical&hide_border=true)
+  ![Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
