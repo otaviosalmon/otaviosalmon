@@ -5,7 +5,7 @@
 ## 📚 Possuo grande interesse na area de dados.
 
 - 🔭 Atualmente não estou trabalhando.
-- 🌱 Ultimamente ando estudando em ETL usando Pandas ,PySpark e NumPy
+- 🌱 Ultimamente ando estudando a área de ETL usando Pandas ,PySpark e NumPy
 - 📫 Contato: otaviosal@hotmail.com
 - 😄 Sou uma pessoa extremamnete curiosa, sempre disposto a aprender e ouvir novas formas de se resolver problemas.
 ## 💻 Tech Stack:
