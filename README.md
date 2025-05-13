@@ -16,3 +16,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=otaviosalmon&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=otaviosalmon&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviosalmon&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=otaviosalmon&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=otaviosalmon&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
