@@ -8,6 +8,13 @@
 - 🌱 Ultimamente ando estudando em ETL usando Pandas ,PySpark e NumPy
 - 📫 Contato: otaviosal@hotmail.com
 - 😄 Pronomes: ele/dele
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=otaviosalmon&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=otaviosalmon&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviosalmon&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
  ## 📊 GitHub Stats:
   ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviosalmon&layout=compact&theme=radical&hide_border=true)
   ![Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
