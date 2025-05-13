@@ -16,7 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=otaviosalmon&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=otaviosalmon&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviosalmon&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
- ## 📊 GitHub Stats:
-  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviosalmon&layout=compact&theme=radical&hide_border=true)
-  ![Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviosalmon&layout=compact&theme=radical&hide_border=true)
+![Snake Game](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
