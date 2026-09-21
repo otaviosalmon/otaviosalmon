@@ -20,4 +20,4 @@ com PBKDF2 e uma API em Python (FastAPI + scikit-learn) para previsão de vendas
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/[seu-usuario]) · [seu-email]
+[LinkedIn](https://www.linkedin.com/in/[seu-usuario]) · otaviosal@hotmail.com
