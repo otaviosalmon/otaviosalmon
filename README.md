@@ -4,8 +4,8 @@
 
 **Desenvolvedor .NET com foco em dados** · Ciência da Computação na Uni-FACEF
 
-<a href="https://www.linkedin.com/in/[seu-usuario]"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="36" /></a>
-<a href="mailto:[seu-email]"><img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" height="36" /></a>
+<a href="https://www.linkedin.com/in/otaviosalmao/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="36" /></a>
+<a href="mailto:otaviosal@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" height="36" /></a>
 
 </div>
 
@@ -16,7 +16,7 @@ Construo aplicações web em **C# / ASP.NET Core** com **SQL Server** e camadas 
 ### 🚀 Projeto em destaque
 
 <a href="https://github.com/otaviosalmon/TCC_SistemaEmpresa">
-  <img src="assets/lo-solutions-dashboard.png" alt="Dashboard do L.O. Solutions" width="100%" />
+  <img width="1012" height="487" alt="Dashboard do L.O Solutions" src="https://github.com/user-attachments/assets/2907fe6d-e49d-4475-91d6-5b4dc840d1a0" />
 </a>
 
 **[L.O. Solutions](https://github.com/otaviosalmon/TCC_SistemaEmpresa)**: ERP web para micro e
